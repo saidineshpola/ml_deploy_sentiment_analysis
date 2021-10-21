@@ -2,7 +2,7 @@ sklearn
 fastapi
 pandas
 pydantic
-tensorflow
+tensorflow-cpu
 uvicorn
 h5py
 python-multipart
